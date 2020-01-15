@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "555013916917",
+    "firebase_url": "https://collectgda.firebaseio.com",
+    "project_id": "collectgda",
+    "storage_bucket": "collectgda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555013916917:android:f3a02114202dbd2046ddbc",
+        "android_client_info": {
+          "package_name": "com.teknokrat.mobile2019.ti17a17313009.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555013916917-4as67pn1n84nu3c80o2a1o2q3gd5gbip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teknokrat.mobile2019.ti17a17313009.myapplication",
+            "certificate_hash": "377dde96d1192f667912e82815a7f0ade6e31d0f"
+          }
+        },
+        {
+          "client_id": "555013916917-623mjvmg8q5itkp8nfpuv6a432kfqovl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA29kq8g1ms81sitS8HDLzdcuWBzlN8iu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555013916917-623mjvmg8q5itkp8nfpuv6a432kfqovl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
